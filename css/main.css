@@ -44,4 +44,9 @@ header .header-icons-container .icons {
     justify-content: space-between;
     justify-self: end;
     margin-right: 50px;
+    
+}
+
+header .header-icons-container .icons span {
+    color: white;
 }
